@@ -62,7 +62,7 @@ function reduceArrayObjects(array, arrayToChange) {
         }
     }
 
-    console.log(newArray);
+    // console.log(newArray);
     return newArray;
 }
 
@@ -136,7 +136,7 @@ function sortArrays(array, prop, direction) {
         })
     }
 
-    console.log(arrayToSort);
+    // console.log(arrayToSort);
     return arrayToSort;
 }
 
